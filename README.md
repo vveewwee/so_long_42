@@ -1,5 +1,12 @@
 # so_long
 ---
+![GitHub All Releases](https://img.shields.io/badge/score-115-green)
+![GitHub All Releases](https://img.shields.io/badge/bonus-done-red)
+![GitHub All Releases](https://img.shields.io/badge/language-C-blue)
+![GitHub All Releases](https://img.shields.io/badge/C-84.5-9cf)
+![GitHub All Releases](https://img.shields.io/badge/Makefile-4.2-9cf)
+![GitHub All Releases](https://img.shields.io/badge/Roff-10.2-9cf)
+![GitHub All Releases](https://img.shields.io/badge/Other-1.1-9cf)
 ## Summary
 This project is a very small 2D game.
 Its purpose is to make you work with textures, sprites,
